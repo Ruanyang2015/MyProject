@@ -8,8 +8,6 @@
 <body>
 <img src="./img/1512802387.png" width="280" alt="">
 推送变更
-kk
-
 没干嘛干嘛
 </body>
 </html>
